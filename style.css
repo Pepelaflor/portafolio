@@ -1,0 +1,47 @@
+header {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 3em;
+}
+
+body {
+    background-color: #8BC6EC;
+background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+
+}
+
+#tituloMain {
+    color: wheat;
+}
+
+h2 {
+    color: wheat;
+}
+
+label {
+    display: block
+}
+
+.formDiv {
+    display: block
+}
+
+.formContainer {
+    padding-top: 5em;
+    
+}
+
+.pContent {
+    text-indent: 1em;
+}
+
+.textMsg {
+    display: block;
+}
+
+#imagen {
+    width: 10em;
+    height: 10em;
+    float: left;
+}
+
